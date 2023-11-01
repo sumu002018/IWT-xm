@@ -1,0 +1,18 @@
+.upor{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+body{
+    margin-top: 5rem;
+}
+.container {
+    margin-bottom: 10px;
+}
+.bgimg{
+    width: 300px;
+    height: 700px;
+    background-image: url('/image/his_sofija-05-19-235_0.jpg');
+    background-size: cover;
+}
